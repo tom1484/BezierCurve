@@ -6,8 +6,10 @@
 <br><br>
 <img src="http://latex.codecogs.com/svg.latex?P_{0}, P_{1}, \cdots , P_{n}" />
 <br><br>
-則該曲線表示為
+則可隨著時間 <img src="http://latex.codecogs.com/svg.latex?t\in [0, 1]" /> 繪製出曲線，而在時刻 <img src="http://latex.codecogs.com/svg.latex?t"/> 時繪製的點座標為
 <br><br>
 <img src="http://latex.codecogs.com/svg.latex?\sum_{i=0}^{n}\binom{n}{i}t^{i}(1-t)^{n-i}P_{i}" />
 <br><br>
-其中 <img src="http://latex.codecogs.com/svg.latex?t" /> 代表時間，即曲線由起點 <img src="http://latex.codecogs.com/svg.latex?t=0" border="0" /> 到終點 <img src="http://latex.codecogs.com/svg.latex?t=1" />
+一條 <img src="http://latex.codecogs.com/svg.latex?n+1=5" /> 的貝茲曲線示意圖
+<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BezierCurve.gif/240px-BezierCurve.gif" />
