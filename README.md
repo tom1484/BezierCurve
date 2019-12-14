@@ -6,7 +6,7 @@
 <br><br>
 <img src="http://latex.codecogs.com/svg.latex?P_{0}, P_{1}, \cdots , P_{n}" border="0" />
 <br><br>
-<img src="http://latex.codecogs.com/svg.latex?1+sin(x)" border="0" />
+則該曲線表示為
 <br><br>
 <img src="http://latex.codecogs.com/svg.latex?\sum_{i=0}^{n}\binom{n}{i}t^{i}(1-t)^{n-i}P_{i}" border="0" />
 <br><br>
